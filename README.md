@@ -7,7 +7,6 @@ Built the models and api routes for for the back end of an ecommerce application
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
-- [Contribution Guidelines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
 - [Video](#video)
@@ -16,20 +15,17 @@ Built the models and api routes for for the back end of an ecommerce application
 ```
 npm i
 ```
-
 ## Usage Information
-open source
-
-## Contribution Guidelines
-Open Source
-
-## Test Instructions
-test in Develop folder
 ```
 mysql -uroot <source db/schema.sql
 node seeds/index.js	
 node server.js
 ```
+##Contribution Guidlines
+Open Source
+
+## Test Instructions
+N/A
 
 ## License
 This project is licensed under the terms of the [MIT](https://opensource.org/licenses/MIT) license
