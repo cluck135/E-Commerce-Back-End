@@ -1,5 +1,5 @@
-# E-Commerc back end
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+# E-Commerc back end
 
 ## Description
 Built the models and api routes for for the back end of an ecommerce application
