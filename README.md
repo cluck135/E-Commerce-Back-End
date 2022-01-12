@@ -21,7 +21,7 @@ npm i
 open source
 
 ## Contribution Guidelines
-N/A
+Open Source
 
 ## Test Instructions
 test in Develop folder
