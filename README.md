@@ -21,7 +21,7 @@ mysql -uroot <source db/schema.sql
 node seeds/index.js	
 node server.js
 ```
-##Contribution Guidlines
+## Contribution Guidlines
 Open Source
 
 ## Test Instructions
